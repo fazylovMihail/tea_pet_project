@@ -6,9 +6,9 @@ const arr_name = [
     'Зелёный чай', 
     'Красный чай'
 ], arr_img = [
-    '/img/tea_images/чай2.jpg',
-    '/img/tea_images/чай.jpg',
-    '/img/tea_images/чай1.jpg'
+    './img/tea_images/чай2.jpg',
+    './img/tea_images/чай.jpg',
+    './img/tea_images/чай1.jpg'
 ], arr_price = [
     100,
     150,
