@@ -1,7 +1,7 @@
 import { set_cookie, back_manager } from "./modules_js/cookie.js";
 import { Card } from "./modules_js/Card_Class.js";
 
-fetch(`${window.location.origin}/data.json`)
+fetch('https://fazylovmihail.github.io/tea_pet_project/data.json')
 .then(respone => respone.json())
 .then(data => reader(data))
 .catch(err => console.log(err));
