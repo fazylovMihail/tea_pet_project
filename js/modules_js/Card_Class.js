@@ -22,7 +22,7 @@ class Card{
                             <div class="buy_wrapper">
                                 <p>${this.name} можно купить у нас за</p>
                                 <div class="buy_btn_wrapper">
-                                    <p class="price_text">${this.price}</p>
+                                    <p class="price_text">${this.price}₽</p>
                                     <button class="buy_btn">Купить</button>
                                 </div>
                             </div>
